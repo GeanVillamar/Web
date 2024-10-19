@@ -3,6 +3,7 @@ import Navegador from "./components/Navegador";
 import Profile from "./components/Profile";
 import Footer from "./components/Footer";
 import Projects from "./components/Projects";
+import { Fade } from "react-awesome-reveal";
 
 function App() {
   return (
@@ -19,7 +20,9 @@ function App() {
         />
       </div>
       <div className="container projects">
-        <h4>Projectos de desarrollo</h4>
+        <Fade cascade>
+          <h4>Projectos de desarrollo</h4>
+        </Fade>
         <Projects />
       </div>
       <div className="container footer">
