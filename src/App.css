@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.projects{
+  margin-top: 100px;
+}
+
+.container_projects{
+  margin-top: 50px;
+}
+
+.AdminUser{
+  margin-top:auto;
+  margin-bottom:auto;
+}
+
+.TodoList{
+  margin-top:-400px;
+  margin-bottom: 200px;
+  margin-left: 400px;
+}
+
+.CarShopping{
+  margin-top: -630px;
+  margin-bottom: 200px;
+  margin-left: 800px;
+}
+

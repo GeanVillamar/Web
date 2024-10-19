@@ -7,7 +7,7 @@ function Navegador() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Portafolio</Navbar.Brand>
+          <Navbar.Brand href="#home">Portafolio Web</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Sobre mi</Nav.Link>
             <Nav.Link href="#features">Proyectos</Nav.Link>

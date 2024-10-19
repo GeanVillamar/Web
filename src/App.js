@@ -14,8 +14,8 @@ function App() {
         <Profile
           cargo="Ingeniero de Software"
           nombre="Ing.Gean Villamar"
-          texto="Desarrollador de aplicaciones web y moviles, conocimientos en conceptos de backend
-            y frond end, bases de datos SQL y analisis de datos "
+          texto="Desarrollador de aplicaciones web, conocimientos en conceptos de backend
+            y frond end, bases de datos SQL"
         />
       </div>
       <div className="container projects">
